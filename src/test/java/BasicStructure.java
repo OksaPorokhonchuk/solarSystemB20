@@ -1,4 +1,5 @@
 public class BasicStructure {
+
     BasicStructure solar =new BasicStructure();
     String Sun;
     String Moon;
@@ -9,3 +10,4 @@ public class BasicStructure {
     Archilies.size="50meters";
     Archilies.temp="90000000";
 }
+
