@@ -5,6 +5,16 @@ public class SolarSystem {
                 solar.Sun="1";
                 solar.Moon="1";
                 solar.Planet="2";
+
+                FeatureSun Archilies=new FeatureSun();
+                Archilies.color="Red";
+                Archilies.size="50 meters";
+                Archilies.temp="900000000";
+
+        planet2 nobel= new planet2();
+        nobel.temp="10000000k";
+        nobel.color="black";
+
             }
 
         }
